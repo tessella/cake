@@ -5,7 +5,7 @@ CAKE is a simple to use tool which implements both the FOCUS Kinetics and the NA
 ## CAKE Usage and Distribution
 
 CAKE v3.3 is and will be distributed on a free to use basis subject to the conditions
-stated in the [Software Licence](./LICENSE). You must agree to [these terms](./LICENSE)
+stated in the [Software Licence](./LICENSE.md). You must agree to [these terms](./LICENSE.md)
 before downloading, installing, distributing or using CAKE.
 
 ## Enquiries
