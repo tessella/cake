@@ -25,8 +25,11 @@ license of CAKE you are also accepting the license to R.
 ## Downloads
 
 [CAKE 32 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.3/CakeSetup32Bit.zip)
+
 [CAKE 64 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.3/CakeSetup64Bit.zip)
+
 [CAKE 3.3 Release Notes](./releasenotes/Computer-Assisted-Kinetic-Evaluation-CAKE-Application-Release-Notes-1.pdf)
+
 [CAKE 3.3 R Scripts](https://github.com/tessella/cake/releases/download/v3.3/CakeRScripts.zip)
 
 ## CAKE Blog
