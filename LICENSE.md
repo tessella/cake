@@ -5,35 +5,34 @@ included in or required as part of your installation.
 
 ## CAKE APPLICATION
 
-This section applies to your use of the CAKE application. Please note in particular the terms of paragraph
-(4) and (5) which limit or exclude liability towards you.
+This section applies to your use of the CAKE application. Please note in particular the terms of paragraph (4) and (5)
+which limit or exclude liability towards you.
 
 CAKE is and will be distributed on a free to use basis subject to the following conditions:
 
-1. The downloaded CAKE application may be distributed by you to a third party on the express condition
-that no charge is made for the distribution, and subject always to these conditions (1) to (5);
-1. Neither the source code nor the object code may be amended by any party who uses or distributes the
-CAKE application. In particular (but without limitation) the source code and the object code may not be
-modified, edited or incorporated into any other application without the prior consent of Syngenta Limited;
-1. Any data presented in a regulatory environment must be attributed as being calculated by CAKE along
-with the version number of the CAKE application used;
-1. To the extent permitted by law, all express and implied warranties are hereby excluded by each of
-Syngenta (the Sponsor), Tessella (the Developer), Ian Hardy (Battelle) & Simon Ford (JSCi) (the Scientific
-Advisors), including (without limitation) any implied warranty of quality or fitness or purpose. Unless
-otherwise stated in writing, the Sponsor the Developer & the Scientific Advisors provide the CAKE
-application “as is” and the risk as to the quality and performance of the CAKE application is with you. If the
-CAKE application proves to be defective, you assume the cost of all necessary servicing, repair or
-correction; and
-1. The Sponsor, the Developer & the Scientific Advisors each exclude liability towards you and any third
-party in relation to the use of CAKE or decisions made based on the outputs of CAKE calculations to the
-maximum extent permitted by law. In particular (but without limitation), neither the Sponsor nor the
-Developer nor the Scientific Advisors shall be liable to you or any third party for (i) any direct loss of profits or other economic loss; or (ii) any indirect, consequential, special or incidental damages, losses,
-expenses or claims arising out of the use or inability to use the CAKE application (in each case including
-damages arising as a result of loss of data or data being rendered inaccurate) even if the Sponsor, the
-Developer or the Scientific Advisors have been advised of the possibility of such damages.
+(1) The downloaded CAKE application may be distributed by you to a third party on the express condition that no charge is
+made for the distribution, and subject always to these conditions (1) to (5);
+(2) Neither the source code nor the object code may be amended by any party who uses or distributes the CAKE application.
+In particular (but without limitation) the source code and the object code may not be modified, edited or incorporated into
+any other application without the prior consent of Syngenta Limited;
+(3) Any data presented in a regulatory environment must be attributed as being calculated by CAKE along with the version number
+of the CAKE application used;
+(4) To the extent permitted by law, all express and implied warranties are hereby excluded by each of Syngenta (the Sponsor),
+Tessella (the Developer), Ian Hardy (Battelle) & Simon Ford (Battelle) (the Scientific Advisors), including (without limitation)
+any implied warranty of quality or fitness or purpose. Unless otherwise stated in writing, the Sponsor the Developer & the Scientific
+Advisors provide the CAKE application “as is” and the risk as to the quality and performance of the CAKE application is with you.
+If the CAKE application proves to be defective, you assume the cost of all necessary servicing, repair or correction; and
+(5) The Sponsor, the Developer & the Scientific Advisors each exclude liability towards you and any third party in relation to the
+use of CAKE or decisions made based on the outputs of CAKE calculations to the maximum extent permitted by law. In particular (but
+without limitation), neither the Sponsor nor the Developer nor the Scientific Advisors shall be liable to you or any third party for
+(i) any direct loss of profits or other economic loss; or (ii) any indirect, consequential, special or incidental damages, losses,
+expenses or claims arising out of the use or inability to use the CAKE application (in each case including damages arising as a
+result of loss of data or data being rendered inaccurate) even if the Sponsor, the Developer or the Scientific Advisors have been
+advised of the possibility of such damages. 
 
-By downloading, installing, distributing or using the CAKE application, you agree with these restrictions,
-including (without limitation) the restrictions on liability.
+By downloading, installing, distributing or using the CAKE application, you agree with these restrictions, including (without
+limitation) the restrictions on liability.
+
 
 ## R VERSION
 
@@ -66,9 +65,8 @@ CAKE application and the R Modules. The licence for each explicitly licensed R p
 the LICENSE file within the package folder. Before using these packages, you should review these
 license files.
 
-In order to operate the CAKE application, you will need the Microsoft .NET Framework 4 Client Profile
-redistributable; this will be downloaded and installed automatically for you by the CAKE installer if you do
-not already have it. By installing CAKE, you agree to the installation of this third-party component if
-necessary.
+In order to operate the CAKE application, you will need the Microsoft .NET Framework 4.7.2 Runtime;
+this will be downloaded and installed automatically for you by the CAKE installer if you do not already have it.
+By installing CAKE, you agree to the installation of this third-party component if necessary.
 
-Copyright © Syngenta 2011-2019
+Copyright © Syngenta 2011-2020

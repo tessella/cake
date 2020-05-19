@@ -4,19 +4,19 @@ CAKE is a simple to use tool which implements both the FOCUS Kinetics and the NA
 
 ## CAKE Usage and Distribution
 
-CAKE v3.3 is and will be distributed on a free to use basis subject to the conditions
+CAKE v3.4 is and will be distributed on a free to use basis subject to the conditions
 stated in the [Software Licence](./LICENSE.md). You must agree to [these terms](./LICENSE.md)
 before downloading, installing, distributing or using CAKE.
 
 ## Enquiries
 
-Please direct all enquiries on CAKE to:
+Please direct all enquiries on CAKE, including requests related to the availability of previous versions, to:
 
 <cake.support@Syngenta.com>
 
 ## Installing CAKE
 
-To install CAKE 3.3 download the appropriate installer for your operating system and 
+To install CAKE 3.4 download the appropriate installer for your operating system and 
 follow the steps of the installer.
 
 This version of CAKE bundles R 3.0 along with all the needed libraries. By accepting the 
@@ -24,15 +24,10 @@ license of CAKE you are also accepting the license to R.
 
 ## Downloads
 
-[CAKE 32 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.3/CakeSetup32Bit.zip)
+[CAKE 32 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup32Bit.zip)
 
-[CAKE 64 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.3/CakeSetup64Bit.zip)
+[CAKE 64 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup64Bit.zip)
 
-[CAKE 3.3 Release Notes](./releasenotes/Computer-Assisted-Kinetic-Evaluation-CAKE-Application-Release-Notes-1.pdf)
+[CAKE 3.4 Release Notes](./releasenotes/ReleaseNotesCAKE3.4.html)
 
-[CAKE 3.3 R Scripts](https://github.com/tessella/cake/releases/download/v3.3/CakeRScripts.zip)
-
-## CAKE Blog
-To enable the exchange of ideas, suggest improvements in the CAKE product and promote discussions around the science of CAKE kinetic assessments; a blog has been set-up at:
-
-<http://cakekinetics.wordpress.com>
+[CAKE 3.4 R Scripts](https://github.com/tessella/cake/releases/download/v3.4/CakeRScripts.zip)
