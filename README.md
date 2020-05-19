@@ -28,6 +28,6 @@ license of CAKE you are also accepting the license to R.
 
 [CAKE 64 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup64Bit.zip)
 
-[CAKE 3.4 Release Notes](./releasenotes/ReleaseNotesCAKE3.4.html)
+[CAKE 3.4 Release Notes](https://github.com/tessella/cake/releases/download/v3.4/ReleaseNotesCAKE3.4.html)
 
 [CAKE 3.4 R Scripts](https://github.com/tessella/cake/releases/download/v3.4/CakeRScripts.zip)
