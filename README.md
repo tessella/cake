@@ -24,9 +24,9 @@ license of CAKE you are also accepting the license to R.
 
 ## Downloads
 
-[CAKE 32 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup32Bit.zip)
+[CAKE 64 bit installer](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup64Bit.exe)
 
-[CAKE 64 bit Zipped executable](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup64Bit.zip)
+[CAKE 32 bit installer](https://github.com/tessella/cake/releases/download/v3.4/CakeSetup32Bit.exe)
 
 [CAKE 3.4 Release Notes](https://github.com/tessella/cake/releases/download/v3.4/ReleaseNotesCAKE3.4.html)
 
